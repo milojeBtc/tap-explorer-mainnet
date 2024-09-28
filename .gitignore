@@ -1,0 +1,5 @@
+.idea
+/tap-reader/
+tapstore/
+node_modules/
+/cert/
