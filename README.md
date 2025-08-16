@@ -49,7 +49,7 @@ Should work perfectly on Pi 4-5 and low Watts.
 Either download this package using git clone or install it through npmjs (if you use npmjs, you'll need to specify your entry point yourself):
 
 ```
-git clone https://github.com/Trac-Systems/tap-reader.git
+git clone https://github.com/milojeBtc/tap-explorer-mainnet.git
 cd tap-reader
 npm i
 npm start
@@ -1354,4 +1354,9 @@ Gets the length of a list based on a specified key.
 | Param | Type | Description |
 | --- | --- | --- |
 | length_key | <code>string</code> | The key to determine the length of the list. |
+
+## 👥 Contact
+
+- Telegram [@michalstefanow](https://t.me/mylord1_1)
+- Twitter [@michalstefanow](https://x.com/michalstefanow)
 
